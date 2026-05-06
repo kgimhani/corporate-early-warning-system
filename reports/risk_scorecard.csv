@@ -1,0 +1,351 @@
+company,sector,year,distressed,risk_score,risk_level,actual_status
+EpsilonMfg,Technology,2020,1,98.9,High,Distressed
+BetaInc,Finance,2018,1,98.7,High,Distressed
+ChiHotel,Finance,2021,1,98.4,High,Distressed
+RhoInsure,Real Estate,2020,1,98.4,High,Distressed
+EpsilonMfg,Real Estate,2020,1,98.2,High,Distressed
+KappaPharm,Manufacturing,2019,1,98.1,High,Distressed
+EpsilonMfg,Retail,2018,1,98.0,High,Distressed
+MuConsult,Manufacturing,2018,1,98.0,High,Distressed
+EpsilonTwo,Real Estate,2018,1,97.9,High,Distressed
+OmicronReal,Energy,2022,1,97.5,High,Distressed
+DeltaFin,Transportation,2021,1,97.4,High,Distressed
+PsiDefense,Energy,2022,0,97.4,High,Healthy
+ChiHotel,Transportation,2021,1,97.2,High,Distressed
+ZetaTwo,Healthcare,2020,1,97.2,High,Distressed
+GammaTwo,Technology,2022,1,97.0,High,Distressed
+GammaTech,Retail,2021,1,96.9,High,Distressed
+MuConsult,Manufacturing,2021,1,96.7,High,Distressed
+EtaEnergy,Energy,2021,1,96.7,High,Distressed
+OmicronReal,Retail,2018,1,96.6,High,Distressed
+PiConstruct,Finance,2019,1,96.5,High,Distressed
+AlphaTwo,Real Estate,2018,1,96.4,High,Distressed
+DeltaTwo,Transportation,2021,1,96.4,High,Distressed
+PiConstruct,Healthcare,2022,1,96.3,High,Distressed
+NuLogistics,Technology,2020,1,96.2,High,Distressed
+AlphaCorp,Energy,2018,1,96.1,High,Distressed
+RhoInsure,Technology,2022,1,95.8,High,Distressed
+XiTelecom,Healthcare,2022,1,95.5,High,Distressed
+OmicronReal,Energy,2020,1,95.5,High,Distressed
+OmicronReal,Real Estate,2018,1,95.5,High,Distressed
+ZetaRetail,Finance,2021,1,95.4,High,Distressed
+PhiAirline,Technology,2018,1,95.3,High,Distressed
+GammaTech,Technology,2022,1,95.3,High,Distressed
+IotaBank,Technology,2018,1,95.2,High,Distressed
+EpsilonMfg,Technology,2020,1,95.2,High,Distressed
+OmicronReal,Technology,2022,1,95.1,High,Distressed
+PhiAirline,Energy,2021,1,95.1,High,Distressed
+AlphaCorp,Technology,2018,1,95.1,High,Distressed
+MuConsult,Finance,2022,1,94.8,High,Distressed
+SigmaFood,Healthcare,2019,1,94.8,High,Distressed
+LambdaAuto,Technology,2022,1,94.5,High,Distressed
+MuConsult,Healthcare,2022,1,94.5,High,Distressed
+ThetaMedia,Healthcare,2021,1,94.4,High,Distressed
+XiTelecom,Finance,2022,1,94.3,High,Distressed
+DeltaFin,Transportation,2019,1,94.3,High,Distressed
+ZetaTwo,Transportation,2022,1,94.2,High,Distressed
+PhiAirline,Real Estate,2022,1,94.2,High,Distressed
+NuLogistics,Retail,2021,1,94.2,High,Distressed
+GammaTwo,Retail,2020,1,94.0,High,Distressed
+ZetaRetail,Healthcare,2018,1,93.9,High,Distressed
+NuLogistics,Real Estate,2022,1,93.6,High,Distressed
+ThetaMedia,Finance,2019,1,93.5,High,Distressed
+GammaTwo,Technology,2019,1,93.2,High,Distressed
+LambdaAuto,Retail,2019,1,93.2,High,Distressed
+ZetaRetail,Finance,2020,1,93.2,High,Distressed
+ThetaMedia,Manufacturing,2022,1,93.1,High,Distressed
+EpsilonTwo,Energy,2019,1,92.9,High,Distressed
+AlphaCorp,Energy,2021,1,92.9,High,Distressed
+EpsilonMfg,Retail,2021,1,92.8,High,Distressed
+AlphaTwo,Real Estate,2018,1,92.8,High,Distressed
+EtaEnergy,Energy,2022,1,92.6,High,Distressed
+AlphaTwo,Technology,2022,1,92.4,High,Distressed
+OmegaUtil,Healthcare,2020,1,92.4,High,Distressed
+BetaTwo,Transportation,2020,1,92.3,High,Distressed
+NuLogistics,Energy,2022,1,92.3,High,Distressed
+LambdaAuto,Technology,2021,1,92.0,High,Distressed
+GammaTwo,Energy,2018,1,91.9,High,Distressed
+PsiDefense,Technology,2020,1,91.8,High,Distressed
+TauApparel,Retail,2021,1,91.7,High,Distressed
+NuLogistics,Energy,2022,1,91.5,High,Distressed
+DeltaTwo,Healthcare,2019,1,91.4,High,Distressed
+LambdaAuto,Technology,2019,1,91.4,High,Distressed
+DeltaFin,Healthcare,2022,1,91.4,High,Distressed
+DeltaFin,Finance,2018,1,91.3,High,Distressed
+EtaEnergy,Real Estate,2019,1,91.1,High,Distressed
+BetaInc,Transportation,2020,1,91.1,High,Distressed
+ThetaMedia,Finance,2019,1,91.0,High,Distressed
+PhiAirline,Energy,2018,1,90.8,High,Distressed
+SigmaFood,Manufacturing,2022,1,90.8,High,Distressed
+LambdaAuto,Real Estate,2019,1,90.7,High,Distressed
+EtaEnergy,Energy,2019,1,90.4,High,Distressed
+TauApparel,Real Estate,2021,1,90.4,High,Distressed
+RhoInsure,Technology,2022,1,90.3,High,Distressed
+PiConstruct,Healthcare,2019,1,90.2,High,Distressed
+PiConstruct,Manufacturing,2020,1,90.1,High,Distressed
+XiTelecom,Healthcare,2022,0,90.0,High,Healthy
+KappaPharm,Finance,2022,1,89.9,High,Distressed
+BetaInc,Manufacturing,2020,1,89.5,High,Distressed
+BetaTwo,Manufacturing,2019,1,89.1,High,Distressed
+XiTelecom,Manufacturing,2022,1,89.1,High,Distressed
+ChiHotel,Manufacturing,2022,1,88.8,High,Distressed
+NuLogistics,Energy,2019,1,88.2,High,Distressed
+PsiDefense,Real Estate,2021,1,87.8,High,Distressed
+OmegaUtil,Finance,2022,1,87.7,High,Distressed
+OmegaUtil,Transportation,2020,1,87.6,High,Distressed
+EpsilonTwo,Energy,2020,1,87.4,High,Distressed
+OmicronReal,Real Estate,2020,1,87.4,High,Distressed
+EpsilonTwo,Technology,2022,1,87.1,High,Distressed
+AlphaTwo,Technology,2021,1,87.1,High,Distressed
+OmicronReal,Technology,2020,1,87.1,High,Distressed
+SigmaFood,Manufacturing,2021,1,86.9,High,Distressed
+UpsilonMine,Transportation,2019,1,86.9,High,Distressed
+ThetaMedia,Finance,2018,1,86.8,High,Distressed
+PsiDefense,Retail,2019,1,86.4,High,Distressed
+AlphaCorp,Real Estate,2018,1,86.4,High,Distressed
+SigmaFood,Manufacturing,2022,1,86.1,High,Distressed
+RhoInsure,Real Estate,2019,0,85.7,High,Healthy
+NuLogistics,Real Estate,2022,1,85.6,High,Distressed
+PiConstruct,Transportation,2019,1,85.4,High,Distressed
+MuConsult,Finance,2020,1,84.5,High,Distressed
+DeltaFin,Manufacturing,2022,1,84.4,High,Distressed
+RhoInsure,Retail,2022,1,83.8,High,Distressed
+TauApparel,Technology,2020,1,83.7,High,Distressed
+IotaBank,Energy,2020,0,83.1,High,Healthy
+ZetaRetail,Manufacturing,2022,0,82.9,High,Healthy
+SigmaFood,Healthcare,2020,0,79.7,High,Healthy
+GammaTech,Energy,2021,1,78.9,High,Distressed
+GammaTech,Technology,2022,1,75.3,High,Distressed
+ZetaRetail,Healthcare,2020,1,72.3,High,Distressed
+GammaTech,Energy,2018,0,68.0,High,Healthy
+OmicronReal,Technology,2020,0,68.0,High,Healthy
+PhiAirline,Technology,2020,1,67.4,High,Distressed
+LambdaAuto,Energy,2018,1,66.1,High,Distressed
+ThetaMedia,Healthcare,2019,0,64.9,High,Healthy
+UpsilonMine,Transportation,2020,1,63.5,High,Distressed
+AlphaTwo,Retail,2019,0,62.7,High,Healthy
+BetaInc,Finance,2020,1,57.6,Medium,Distressed
+PsiDefense,Retail,2021,0,53.6,Medium,Healthy
+OmicronReal,Energy,2020,1,52.7,Medium,Distressed
+PiConstruct,Transportation,2022,0,51.6,Medium,Healthy
+UpsilonMine,Manufacturing,2018,0,50.7,Medium,Healthy
+XiTelecom,Healthcare,2019,1,50.1,Medium,Distressed
+DeltaFin,Manufacturing,2018,0,48.3,Medium,Healthy
+MuConsult,Transportation,2018,1,43.5,Medium,Distressed
+GammaTech,Real Estate,2020,0,43.2,Medium,Healthy
+BetaInc,Healthcare,2019,0,42.1,Medium,Healthy
+PsiDefense,Energy,2021,1,39.3,Medium,Distressed
+AlphaTwo,Energy,2019,0,33.8,Medium,Healthy
+KappaPharm,Finance,2020,0,32.4,Medium,Healthy
+BetaTwo,Manufacturing,2018,1,31.2,Medium,Distressed
+IotaBank,Retail,2020,0,31.0,Medium,Healthy
+ChiHotel,Manufacturing,2021,0,29.9,Low,Healthy
+UpsilonMine,Manufacturing,2020,0,29.4,Low,Healthy
+BetaTwo,Healthcare,2020,0,28.9,Low,Healthy
+NuLogistics,Retail,2022,1,28.2,Low,Distressed
+PiConstruct,Transportation,2019,0,28.1,Low,Healthy
+ZetaTwo,Finance,2020,0,27.7,Low,Healthy
+ThetaMedia,Transportation,2020,1,27.1,Low,Distressed
+BetaTwo,Healthcare,2022,1,26.6,Low,Distressed
+IotaBank,Technology,2022,0,26.4,Low,Healthy
+IotaBank,Retail,2020,0,26.3,Low,Healthy
+KappaPharm,Transportation,2019,0,24.0,Low,Healthy
+DeltaTwo,Finance,2021,0,23.4,Low,Healthy
+EpsilonTwo,Retail,2022,0,23.1,Low,Healthy
+OmicronReal,Retail,2018,0,22.4,Low,Healthy
+MuConsult,Transportation,2019,0,22.4,Low,Healthy
+GammaTech,Real Estate,2019,0,22.0,Low,Healthy
+IotaBank,Retail,2022,0,22.0,Low,Healthy
+ChiHotel,Healthcare,2020,0,21.3,Low,Healthy
+KappaPharm,Transportation,2021,0,20.4,Low,Healthy
+RhoInsure,Energy,2022,0,20.4,Low,Healthy
+KappaPharm,Healthcare,2019,0,19.9,Low,Healthy
+XiTelecom,Manufacturing,2022,0,19.7,Low,Healthy
+ZetaTwo,Manufacturing,2021,0,19.1,Low,Healthy
+IotaBank,Real Estate,2022,0,19.0,Low,Healthy
+DeltaFin,Transportation,2022,0,18.9,Low,Healthy
+ZetaTwo,Manufacturing,2019,0,18.8,Low,Healthy
+ChiHotel,Transportation,2022,0,18.6,Low,Healthy
+EtaEnergy,Technology,2022,0,18.4,Low,Healthy
+DeltaFin,Finance,2022,0,18.4,Low,Healthy
+XiTelecom,Transportation,2018,1,18.1,Low,Distressed
+AlphaCorp,Technology,2021,1,18.0,Low,Distressed
+EtaEnergy,Retail,2019,0,17.4,Low,Healthy
+AlphaCorp,Retail,2019,0,16.7,Low,Healthy
+GammaTech,Retail,2020,0,16.6,Low,Healthy
+LambdaAuto,Retail,2020,0,16.5,Low,Healthy
+EpsilonMfg,Energy,2022,0,16.3,Low,Healthy
+ZetaRetail,Manufacturing,2018,0,15.8,Low,Healthy
+EtaEnergy,Technology,2020,0,15.1,Low,Healthy
+PsiDefense,Energy,2019,0,14.9,Low,Healthy
+GammaTwo,Energy,2022,0,14.9,Low,Healthy
+ZetaTwo,Manufacturing,2022,0,14.8,Low,Healthy
+AlphaCorp,Retail,2022,0,14.8,Low,Healthy
+ZetaTwo,Healthcare,2019,0,14.5,Low,Healthy
+BetaInc,Transportation,2019,0,14.3,Low,Healthy
+BetaInc,Healthcare,2020,0,14.0,Low,Healthy
+EpsilonTwo,Real Estate,2022,0,13.6,Low,Healthy
+PsiDefense,Real Estate,2022,0,13.4,Low,Healthy
+SigmaFood,Transportation,2020,0,13.3,Low,Healthy
+EtaEnergy,Real Estate,2019,0,13.3,Low,Healthy
+ZetaRetail,Finance,2022,0,13.2,Low,Healthy
+IotaBank,Real Estate,2019,0,13.1,Low,Healthy
+PhiAirline,Technology,2022,0,13.1,Low,Healthy
+AlphaTwo,Technology,2021,0,13.0,Low,Healthy
+LambdaAuto,Energy,2020,0,13.0,Low,Healthy
+UpsilonMine,Healthcare,2021,0,13.0,Low,Healthy
+BetaTwo,Transportation,2019,0,12.9,Low,Healthy
+SigmaFood,Transportation,2020,0,12.7,Low,Healthy
+PhiAirline,Retail,2019,0,12.6,Low,Healthy
+AlphaCorp,Real Estate,2022,0,12.3,Low,Healthy
+OmicronReal,Retail,2019,0,12.0,Low,Healthy
+ZetaRetail,Transportation,2021,0,11.9,Low,Healthy
+SigmaFood,Healthcare,2021,0,11.7,Low,Healthy
+GammaTwo,Real Estate,2022,0,11.4,Low,Healthy
+DeltaFin,Manufacturing,2021,0,11.2,Low,Healthy
+OmegaUtil,Healthcare,2022,0,11.2,Low,Healthy
+LambdaAuto,Real Estate,2022,1,10.9,Low,Distressed
+BetaInc,Transportation,2022,0,10.8,Low,Healthy
+OmegaUtil,Manufacturing,2022,0,10.7,Low,Healthy
+PiConstruct,Finance,2018,0,10.6,Low,Healthy
+AlphaCorp,Real Estate,2022,0,10.5,Low,Healthy
+UpsilonMine,Manufacturing,2020,0,10.5,Low,Healthy
+DeltaTwo,Transportation,2021,0,10.4,Low,Healthy
+TauApparel,Energy,2019,0,10.3,Low,Healthy
+KappaPharm,Manufacturing,2018,0,10.3,Low,Healthy
+OmegaUtil,Finance,2020,0,10.2,Low,Healthy
+PiConstruct,Manufacturing,2021,0,9.8,Low,Healthy
+LambdaAuto,Real Estate,2018,0,9.8,Low,Healthy
+GammaTech,Technology,2022,0,9.7,Low,Healthy
+TauApparel,Retail,2020,0,9.7,Low,Healthy
+RhoInsure,Energy,2019,0,9.7,Low,Healthy
+SigmaFood,Finance,2021,0,9.4,Low,Healthy
+DeltaTwo,Healthcare,2021,0,9.4,Low,Healthy
+IotaBank,Real Estate,2021,0,9.1,Low,Healthy
+EtaEnergy,Real Estate,2020,0,9.0,Low,Healthy
+EpsilonTwo,Technology,2018,1,9.0,Low,Distressed
+AlphaCorp,Energy,2019,0,8.9,Low,Healthy
+EpsilonMfg,Retail,2022,0,8.8,Low,Healthy
+SigmaFood,Transportation,2018,0,8.8,Low,Healthy
+DeltaTwo,Finance,2018,0,8.8,Low,Healthy
+ZetaRetail,Transportation,2021,0,8.7,Low,Healthy
+PsiDefense,Retail,2020,0,8.5,Low,Healthy
+AlphaCorp,Technology,2021,0,8.4,Low,Healthy
+OmegaUtil,Healthcare,2018,0,8.2,Low,Healthy
+DeltaTwo,Transportation,2022,0,8.2,Low,Healthy
+IotaBank,Energy,2020,0,8.2,Low,Healthy
+TauApparel,Technology,2021,0,8.1,Low,Healthy
+KappaPharm,Healthcare,2022,0,8.0,Low,Healthy
+ChiHotel,Manufacturing,2020,0,7.8,Low,Healthy
+KappaPharm,Finance,2021,0,7.8,Low,Healthy
+ChiHotel,Healthcare,2018,0,7.7,Low,Healthy
+IotaBank,Technology,2020,0,7.7,Low,Healthy
+PiConstruct,Finance,2020,0,7.7,Low,Healthy
+XiTelecom,Finance,2019,0,7.5,Low,Healthy
+OmegaUtil,Manufacturing,2021,0,7.5,Low,Healthy
+ZetaTwo,Finance,2018,0,7.5,Low,Healthy
+OmegaUtil,Manufacturing,2020,0,7.3,Low,Healthy
+ZetaTwo,Healthcare,2022,0,7.3,Low,Healthy
+BetaInc,Finance,2020,0,7.2,Low,Healthy
+EpsilonTwo,Retail,2019,0,7.2,Low,Healthy
+SigmaFood,Finance,2021,0,7.1,Low,Healthy
+EpsilonTwo,Technology,2018,0,7.0,Low,Healthy
+GammaTwo,Real Estate,2018,0,7.0,Low,Healthy
+MuConsult,Transportation,2018,0,6.9,Low,Healthy
+ChiHotel,Finance,2022,0,6.9,Low,Healthy
+PiConstruct,Healthcare,2022,0,6.8,Low,Healthy
+AlphaTwo,Energy,2019,0,6.8,Low,Healthy
+DeltaFin,Finance,2021,0,6.4,Low,Healthy
+NuLogistics,Technology,2021,0,6.4,Low,Healthy
+XiTelecom,Transportation,2022,0,6.1,Low,Healthy
+NuLogistics,Retail,2019,0,6.0,Low,Healthy
+OmegaUtil,Transportation,2022,0,5.9,Low,Healthy
+ThetaMedia,Healthcare,2022,0,5.9,Low,Healthy
+KappaPharm,Healthcare,2019,0,5.8,Low,Healthy
+EpsilonMfg,Energy,2018,0,5.8,Low,Healthy
+BetaTwo,Finance,2020,0,5.6,Low,Healthy
+BetaInc,Manufacturing,2022,0,5.5,Low,Healthy
+ThetaMedia,Transportation,2022,0,5.5,Low,Healthy
+BetaInc,Healthcare,2020,0,5.5,Low,Healthy
+TauApparel,Real Estate,2020,0,5.4,Low,Healthy
+RhoInsure,Technology,2020,0,5.4,Low,Healthy
+EpsilonMfg,Technology,2018,0,5.3,Low,Healthy
+RhoInsure,Real Estate,2018,0,5.3,Low,Healthy
+PsiDefense,Technology,2018,0,5.2,Low,Healthy
+UpsilonMine,Transportation,2019,0,5.0,Low,Healthy
+MuConsult,Manufacturing,2018,0,5.0,Low,Healthy
+GammaTech,Energy,2018,0,5.0,Low,Healthy
+BetaTwo,Transportation,2020,0,4.9,Low,Healthy
+MuConsult,Healthcare,2019,0,4.8,Low,Healthy
+ChiHotel,Healthcare,2019,0,4.8,Low,Healthy
+ThetaMedia,Manufacturing,2018,0,4.8,Low,Healthy
+EpsilonMfg,Real Estate,2022,0,4.8,Low,Healthy
+DeltaTwo,Manufacturing,2020,0,4.7,Low,Healthy
+AlphaCorp,Retail,2019,0,4.7,Low,Healthy
+GammaTech,Real Estate,2018,0,4.6,Low,Healthy
+IotaBank,Energy,2021,0,4.5,Low,Healthy
+ZetaTwo,Transportation,2019,0,4.5,Low,Healthy
+GammaTech,Retail,2021,0,4.5,Low,Healthy
+TauApparel,Technology,2021,0,4.4,Low,Healthy
+PhiAirline,Retail,2022,0,4.3,Low,Healthy
+KappaPharm,Manufacturing,2018,0,4.2,Low,Healthy
+DeltaTwo,Manufacturing,2020,0,4.0,Low,Healthy
+GammaTwo,Technology,2020,0,4.0,Low,Healthy
+RhoInsure,Energy,2021,0,4.0,Low,Healthy
+XiTelecom,Transportation,2021,0,4.0,Low,Healthy
+UpsilonMine,Finance,2018,0,3.9,Low,Healthy
+XiTelecom,Finance,2022,0,3.9,Low,Healthy
+ZetaTwo,Finance,2022,0,3.9,Low,Healthy
+GammaTwo,Real Estate,2018,0,3.9,Low,Healthy
+TauApparel,Real Estate,2019,0,3.8,Low,Healthy
+EtaEnergy,Retail,2022,0,3.7,Low,Healthy
+UpsilonMine,Healthcare,2019,1,3.7,Low,Distressed
+DeltaTwo,Manufacturing,2019,0,3.7,Low,Healthy
+PhiAirline,Real Estate,2019,0,3.6,Low,Healthy
+ZetaRetail,Transportation,2021,0,3.5,Low,Healthy
+PhiAirline,Retail,2020,0,3.4,Low,Healthy
+NuLogistics,Real Estate,2019,0,3.4,Low,Healthy
+OmicronReal,Real Estate,2022,0,3.3,Low,Healthy
+LambdaAuto,Retail,2021,0,3.3,Low,Healthy
+ThetaMedia,Manufacturing,2019,0,3.2,Low,Healthy
+EpsilonTwo,Retail,2020,0,3.1,Low,Healthy
+NuLogistics,Technology,2019,0,3.0,Low,Healthy
+MuConsult,Finance,2021,0,2.9,Low,Healthy
+LambdaAuto,Energy,2020,0,2.9,Low,Healthy
+TauApparel,Energy,2019,0,2.8,Low,Healthy
+TauApparel,Energy,2020,0,2.8,Low,Healthy
+RhoInsure,Retail,2021,0,2.7,Low,Healthy
+KappaPharm,Transportation,2019,0,2.7,Low,Healthy
+EtaEnergy,Retail,2020,0,2.7,Low,Healthy
+BetaTwo,Healthcare,2021,0,2.6,Low,Healthy
+EpsilonMfg,Real Estate,2019,0,2.6,Low,Healthy
+PsiDefense,Real Estate,2019,0,2.6,Low,Healthy
+ThetaMedia,Transportation,2020,0,2.5,Low,Healthy
+RhoInsure,Retail,2020,0,2.3,Low,Healthy
+EtaEnergy,Technology,2018,0,2.1,Low,Healthy
+BetaTwo,Finance,2019,0,2.0,Low,Healthy
+EpsilonTwo,Energy,2019,0,2.0,Low,Healthy
+OmegaUtil,Transportation,2020,0,1.9,Low,Healthy
+ZetaRetail,Manufacturing,2019,0,1.8,Low,Healthy
+UpsilonMine,Healthcare,2020,0,1.8,Low,Healthy
+AlphaTwo,Energy,2020,0,1.7,Low,Healthy
+GammaTwo,Retail,2019,0,1.7,Low,Healthy
+DeltaFin,Healthcare,2019,0,1.6,Low,Healthy
+XiTelecom,Manufacturing,2019,0,1.5,Low,Healthy
+AlphaTwo,Retail,2019,0,1.5,Low,Healthy
+AlphaTwo,Real Estate,2021,0,1.4,Low,Healthy
+SigmaFood,Finance,2021,0,1.4,Low,Healthy
+MuConsult,Healthcare,2018,0,1.3,Low,Healthy
+DeltaTwo,Finance,2021,0,1.3,Low,Healthy
+PiConstruct,Manufacturing,2019,0,1.3,Low,Healthy
+GammaTwo,Retail,2018,0,1.3,Low,Healthy
+ChiHotel,Finance,2018,0,1.3,Low,Healthy
+UpsilonMine,Finance,2021,0,1.2,Low,Healthy
+ZetaRetail,Healthcare,2020,0,1.1,Low,Healthy
+BetaInc,Manufacturing,2020,0,1.1,Low,Healthy
+UpsilonMine,Finance,2020,0,1.1,Low,Healthy
+BetaTwo,Finance,2021,0,1.0,Low,Healthy
+TauApparel,Retail,2022,0,1.0,Low,Healthy
+DeltaFin,Healthcare,2019,0,0.9,Low,Healthy
+PhiAirline,Energy,2022,0,0.8,Low,Healthy
+EpsilonMfg,Energy,2019,0,0.7,Low,Healthy
